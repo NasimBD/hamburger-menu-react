@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hamburger-menu-react/static/js/main.2a5d7f41.js",
+    "static/media/h6.jpg": "/hamburger-menu-react/static/media/h6.aaf1100cd23286cb3eb7.jpg",
+    "static/media/h5.jpg": "/hamburger-menu-react/static/media/h5.e90a9324cdb9b9deca50.jpg",
+    "static/media/h4.jpg": "/hamburger-menu-react/static/media/h4.b70fd06ffc1ddafdf0aa.jpg",
+    "static/media/h2.jpg": "/hamburger-menu-react/static/media/h2.0b5bd872c9e34ff6c4a1.jpg",
+    "static/media/h3.jpg": "/hamburger-menu-react/static/media/h3.2c0b657643c28e2300e4.jpg",
+    "static/media/h1.jpg": "/hamburger-menu-react/static/media/h1.b531eeed09617f0e2d87.jpg",
+    "static/media/menu-bars-2.svg": "/hamburger-menu-react/static/media/menu-bars-2.39f393a12d7b34b19279249c3dd6be6d.svg",
+    "index.html": "/hamburger-menu-react/index.html",
+    "main.2a5d7f41.js.map": "/hamburger-menu-react/static/js/main.2a5d7f41.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a5d7f41.js"
+  ]
+}
